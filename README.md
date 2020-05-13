@@ -1,4 +1,4 @@
-# Utra Sonic Sensor
+# Ultrasonic Sensor
 
 Measures the distance of objects in front of an ultrasonic and displays the measurement in a GUI
 
